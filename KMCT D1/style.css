@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    background-color: bisque;
+    border: 2px;
+    border-style: solid;
+    border-color: aqua;
+    border-radius:15px;
+}
+p{
+    border: 2px solid rgb(40, 16, 16);
+    border-radius: 100px;
+    color: azure;
+    background-image: url("https://kmct.edu.in/images/kmct/ce.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 40px 60px;
+    padding: 250px;
+}
+table,th,td{
+    border:3px solid red;
+    width: 70%;
+    text-align: center;
+
+}
+img{
+    height: 500px;
+    width: 1000px;
+    padding: 100px 300px;
+}
+li{
+    list-style-type:lower-roman;
+}
+#head1{
+    color: rgb(10, 197, 25);
+}
+.class1{
+    text-align: center;
+    color: cyan;
+}
